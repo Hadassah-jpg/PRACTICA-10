@@ -42,4 +42,4 @@ jobs:
               with:
                 context: .
                 push: true
-                tags: ghcr.io/hadassah-jpg/PRACTICA-10:latest
+                tags: ghcr.io/hadassah-jpg/practica-10:latest
